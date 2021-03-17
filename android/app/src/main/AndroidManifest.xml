@@ -3,8 +3,7 @@
     package="com.example.newproject">
    <application
         android:label="newproject"
-        android:icon="@mipmap/ic_launcher"
-        android:name=".Application">
+        android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

@@ -61,7 +61,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 onTap: () {
                   Navigator.push(
                     context,
-                    MaterialPageRoute(builder: (context) => AlertPage()),
+                    MaterialPageRoute(builder: (context) => Application()),
                   );
                 }),
             Divider(

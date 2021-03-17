@@ -29,7 +29,7 @@ class SecondPage extends StatelessWidget {
                 onTap: () {
                   Navigator.push(
                     context,
-                    MaterialPageRoute(builder: (context) => AlertPage()),
+                    MaterialPageRoute(builder: (context) => Application()),
                   );
                 }),
             Divider(
